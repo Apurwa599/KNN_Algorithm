@@ -1,4 +1,4 @@
-## KNN_Algorithm
+### KNN_Algorithm
 K-Nearest Neighbors (KNN) is a simple, instance-based learning algorithm used for both classification and regression tasks. 
 The main idea is to predict the value or class of a new sample based on the (k)closest samples (neighbors) in the training dataset.
 For classification, the predicted class is the most common class among the (k) nearest neighbors. 
